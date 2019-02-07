@@ -98,7 +98,7 @@ const options = {
       style: {
         fontSize: '13px',
       },
-      text: 'Expertise'
+      text: ''
     },
     // 0 (Exposure), 2 (Familiar), 4 (Proficient), 6 (Expert)
     min: 0,
@@ -215,7 +215,7 @@ optionsFrameworks.title = {
   style: {
     fontSize: '16px',
   },
-  text: '*',
+  text: 'Frameworks, Libraries and DBs',
   align: 'left'
 };
 
@@ -230,7 +230,7 @@ const optionsConcepts = JSON.parse(JSON.stringify(options));
 optionsConcepts.series = [
   {
     name: "Docker",
-    data: [null, null, null, null, null, null, 0, 2, 4, null]
+    data: [null, null, null, null, null, null, 0, 2, 3.3, null]
   },
   {
     name: "CI/CD",

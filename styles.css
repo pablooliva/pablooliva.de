@@ -145,7 +145,7 @@ ul.clean img:first-child {
     margin-right: 0.5rem;
 }
 ul.projects {
-    opacity: 0.3;
+    opacity: 1;
 }
 ul.portfolio li {
     width: 3rem;

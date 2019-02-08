@@ -155,7 +155,7 @@ optionsLanguagesSecondary.series = [
   },
   {
     name: "PHP",
-    data: [0, 4, 3, 3.8, 4.6, 4, 3.7, 3.6, 3.2, null]
+    data: [0, 4, 2.5, 3, 3.5, 3.2, 3, 2.8, 2.6, null]
   },
   {
     name: "C# (ASP.NET)",
@@ -200,7 +200,7 @@ optionsFrameworks.series = [
   },
   {
     name: "SQL",
-    data: [1, 3, 2.5, 3.2, 3, 2.5, 2, 2, 1.5, null]
+    data: [1, 3, 2, 2.8, 2.6, 2.2, 2, 2, 1.5, null]
   },
   {
     name: "Ng Material",
